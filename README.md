@@ -7,11 +7,17 @@ Clone this repository and import into **Android Studio**
 
 ## Dependencies Breakdown
 Coroutines: Asynchronous programming
+
 ConstraintLayout: Responsive layout
+
 Koin: Dependency Injection
+
 RecyclerView: Scrolling list layout
+
 Retrofit: HTTP Client
+
 Picasso: Image loading
+
 Mockito: Mocks on unit testing
 
 ## Testing
