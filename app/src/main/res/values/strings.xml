@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Shopping Catalog</string>
+    <string name="search_hint">Buscar productos, marcas y más…</string>
+
+    <string name="price_format" translatable="false">%1$s %2$s</string>
+    <string name="found_items">Encontrados %1$d productos.</string>
+
+
+    <string name="error">There was an error with your request…</string>
+    <string name="exception">There was an exception with your request…</string>
+</resources>
